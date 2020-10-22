@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Article component renders Article 1`] = `
+<DocumentFragment>
+  <ul
+    data-testid="articles"
+  >
+    <li>
+      <h3>
+        calvin
+      </h3>
+      <cite>
+        By: and
+      </cite>
+      <p>
+        Description: hobbs
+      </p>
+    </li>
+  </ul>
+</DocumentFragment>
+`;

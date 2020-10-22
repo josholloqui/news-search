@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`App component renders App 1`] = `
+exports[`Search component renders search 1`] = `
 <DocumentFragment>
   <form>
     <label>
@@ -8,15 +8,12 @@ exports[`App component renders App 1`] = `
         id="term"
         name="term"
         type="text"
-        value=""
+        value="chicken"
       />
     </label>
     <button>
       SEARCH
     </button>
   </form>
-  <ul
-    data-testid="articles"
-  />
 </DocumentFragment>
 `;

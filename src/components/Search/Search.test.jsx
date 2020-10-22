@@ -8,7 +8,8 @@ describe('Search component', () => {
     const { asFragment } = render(
       <Search
         term="chicken"
-        handleChange={() => {}}
+        onChange={() => {}}
+        onSubmit={() => {}}
       />
     );
 

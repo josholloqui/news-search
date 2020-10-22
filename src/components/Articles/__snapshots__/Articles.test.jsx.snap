@@ -2,7 +2,9 @@
 
 exports[`Article component renders Article 1`] = `
 <DocumentFragment>
-  <ul>
+  <ul
+    data-testid="articles"
+  >
     <li>
       <h3>
         calvin
